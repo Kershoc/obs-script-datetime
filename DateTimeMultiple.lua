@@ -1,6 +1,6 @@
 --[[ OBS Studio datetime script
 
-This script transforms a text source into a digital clock. The datetime format
+This script transforms up to two text sources into a digital clock. The datetime format
 is configurable and uses the same syntax than the Lua os.date() call.
 
 Modified to accept a second source to allow splitting the date and time.
