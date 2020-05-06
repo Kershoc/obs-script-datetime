@@ -34,3 +34,6 @@ This script transforms up to 2 text sources into a digital clock. The datetime f
 
 - Download the script anywhere on your hard drive
 - Go to Tools -> Scripts and add the downloaded script
+- Configure the sources you wish to display
+
+![options screenshot](https://github.com/Kershoc/obs-script-datetime/raw/readme-options/readme-imgs/options.png)
